@@ -13,7 +13,7 @@ def divide(m,n):
     return x
 
 def main():
-    print(sum(10,3))
+    print(f"Result is: {sum(10,3)}")
 
 if __name__ == "__main__":
     main()
